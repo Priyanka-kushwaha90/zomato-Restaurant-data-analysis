@@ -58,7 +58,7 @@ Model Deployment using Flask
 
 🤖 Machine Learning Models Used
 
-Linear Regression – Baseline model
+Logistic Regression – Baseline model
 
 Random Forest Regressor – Handles non-linearity and feature interactions
 
